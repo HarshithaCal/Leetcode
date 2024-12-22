@@ -28,7 +28,7 @@ class Solution:
                     if count >= n:
                         return True
         
-        return count >= n
+        return count >= n #deal with n=0 case
 
 
         
