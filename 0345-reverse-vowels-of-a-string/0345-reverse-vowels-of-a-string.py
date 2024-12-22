@@ -1,7 +1,7 @@
 class Solution:
     def reverseVowels(self, s: str) -> str:
-
-        #time limit exceeded
+      
+        # time complexity - O(N)
         ans = ""
         vowels = []
         index = []
@@ -12,9 +12,10 @@ class Solution:
         
         vowels.reverse()
         ans = list(s)  # Use a list for mutable operations
+        #without this time limit exceeds
         
         j = 0
-        for i in index:  # Iterate over indices of vowels only
+        for i in index:  
             ans[i] = vowels[j]
             j += 1
         
