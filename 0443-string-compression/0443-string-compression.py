@@ -1,5 +1,7 @@
 class Solution:
     def compress(self, chars: List[str]) -> int:
+
+        #####TODO: without extra space#########
         res = ""
         count = 1
         prev = chars[0]
