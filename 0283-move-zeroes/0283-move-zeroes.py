@@ -3,8 +3,8 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        zp = 0
+        pos = 0
         for i in range(len(nums)):
             if nums[i] != 0:
-                nums[zp], nums[i] = nums[i], nums[zp]
-                zp +=1
+                nums[pos], nums[i] = nums[i], nums[pos]
+                pos +=1
