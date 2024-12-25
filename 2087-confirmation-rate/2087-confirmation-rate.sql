@@ -1,6 +1,4 @@
--- SELECT * FROM Signups AS S
--- LEFT JOIN Confirmations AS C
--- ON S.user_id = C.user_id
+## be cautious in picking the user_id from the correct table
 
 SELECT S.user_id, IFNULL(ROUND(SUM(C.action="Confirmed")/COUNT(*), 2), 0) AS confirmation_rate
 FROM Confirmations AS C
