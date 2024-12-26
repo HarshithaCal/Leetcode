@@ -1,6 +1,6 @@
 class Solution:
     def maxOperations(self, nums: List[int], k: int) -> int:
-#dictionary / hashmap logic
+    #dictionary / hashmap logic - TC: O(N) and SC: O(N)
         counter = 0
         dicti = {}
         for x in nums:
