@@ -11,7 +11,7 @@ class Solution:
             if nums[right] == 0:
                 zero_count += 1
             
-            # If the number of 0s exceeds k, shrink the window
+            # If the number of 0s exceeds k, shrink the window: Main logic
             while zero_count > k:
                 if nums[left] == 0:
                     zero_count -= 1
