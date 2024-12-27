@@ -4,7 +4,7 @@ class Solution:
         answer = [[] for _ in range(2)]
         maps = {}
         for x in nums1:
-            if x not in maps:
+            if x not in maps: #x not in maps involves a hash table lookup, which is O(1) on average
                 maps[x] = 1
 
         #be cautious about the mulitple occurrence of the same element
