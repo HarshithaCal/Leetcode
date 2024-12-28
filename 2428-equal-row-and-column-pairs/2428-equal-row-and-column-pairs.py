@@ -1,6 +1,6 @@
 class Solution:
     def equalPairs(self, grid: List[List[int]]) -> int:
-        #optimized:
+        #optimized: TC - O(n^2)
         # Store rows as tuples. Tuples are immutable and hashable so faster.
         rows = [tuple(row) for row in grid]
 
@@ -17,7 +17,7 @@ class Solution:
 
 
 
-        # #Brute-force: Transpose and check 
+        # #Brute-force: Transpose and check - TC - O(n^3)
 
         # n = len(grid)
         # count = 0
