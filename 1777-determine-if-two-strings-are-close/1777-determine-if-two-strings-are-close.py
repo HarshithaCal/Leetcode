@@ -8,12 +8,14 @@ class Solution:
         freq1 = Counter(word1)
         freq2 = Counter(word2)
         
+        # Check if both words have the same set of characters
+        if set(freq1.keys()) != set(freq2.keys()):
+            return False
+
         # Check if the sorted frequency values match
         return sorted(freq1.values()) == sorted(freq2.values())
 
-
-
-        
+        #########Same logic ..
         # if len(word1) != len(word2):
         #     return False
         
