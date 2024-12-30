@@ -1,7 +1,7 @@
 # Write your MySQL query statement below
-SELECT DISTINCT e1.employee_id, e1.department_id FROM Employee e1
+SELECT  e1.employee_id, e1.department_id FROM Employee e1
 WHERE e1.primary_flag = "Y"
 UNION
-SELECT DISTINCT e2.employee_id, e2.department_id FROM Employee e2
+SELECT  e2.employee_id, e2.department_id FROM Employee e2
 GROUP BY e2.employee_id 
 HAVING COUNT(e2.department_id) = 1
