@@ -10,7 +10,7 @@ class Solution:
                 d_arr.append(i)
         
         while r_arr and d_arr:
-            r = r_arr.pop(0)
+            r = r_arr.pop(0) #pop(index) is important else it will pop() last element
             d = d_arr.pop(0)
             if r < d: #r bans d
                 r_arr.append(n+r) #round about
