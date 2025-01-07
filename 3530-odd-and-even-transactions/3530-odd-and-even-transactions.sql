@@ -1,6 +1,7 @@
 select  
         transaction_date,
-        coalesce(sum(case when mod(amount,2)=1 then amount end),0) as odd_sum,   #coalesce() fills NULL with the value
+        coalesce(sum(case when mod(amount,2)=1 then amount end),0) as odd_sum,   
+        #coalesce() fills NULL with the value
         coalesce(sum(case when mod(amount,2)=0 then amount end),0) as even_sum
     from transactions
     group by 1  #col number
