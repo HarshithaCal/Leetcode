@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/HarshithaCal/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/HarshithaCal/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/HarshithaCal/Leetcode/tree/master/0735-asteroid-collision) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HarshithaCal/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/HarshithaCal/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshithaCal/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HarshithaCal/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/HarshithaCal/Leetcode/tree/master/0113-path-sum-ii) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/HarshithaCal/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshithaCal/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HarshithaCal/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/HarshithaCal/Leetcode/tree/master/0113-path-sum-ii) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/HarshithaCal/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshithaCal/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HarshithaCal/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/HarshithaCal/Leetcode/tree/master/0113-path-sum-ii) |
