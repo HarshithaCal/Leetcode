@@ -24,6 +24,9 @@
 -- ON e.departmentId = d.id
 -- WHERE (d.id, salary) IN (SELECT * FROM cte)
 
+
+#CTE approach 2 - more versatile
+#cte - is ranking the employees based on their salary in each department
 with cte as (
     select name, salary, departmentId,
     dense_rank() over(  partition by departmentId 
