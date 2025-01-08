@@ -3,12 +3,12 @@ from insurance
 where tiv_2015 in (
     select tiv_2015 
     from insurance
-    group by 1
+    group by tiv_2015
     having count(*) > 1
 )
 and concat(lat, lon) not in (
-    select concat(lat, lon) as dup
+    select concat(lat, lon)
     from insurance
-    group by 1
-    having count(dup) > 1
+    group by CONCAT(lat, lon)
+    having count(*) > 1
 )
