@@ -25,7 +25,6 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [1833-find-the-highest-altitude](https://github.com/HarshithaCal/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HarshithaCal/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2428-equal-row-and-column-pairs](https://github.com/HarshithaCal/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
-
 ## Two Pointers
 |  |
 | ------- |
@@ -40,7 +39,6 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [1894-merge-strings-alternately](https://github.com/HarshithaCal/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HarshithaCal/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HarshithaCal/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
-
 ## Hash Table
 |  |
 | ------- |
@@ -216,7 +214,6 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/HarshithaCal/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
-
 ## Database
 |  |
 | ------- |
@@ -230,6 +227,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/HarshithaCal/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/HarshithaCal/Leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/HarshithaCal/Leetcode/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/HarshithaCal/Leetcode/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/HarshithaCal/Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/HarshithaCal/Leetcode/tree/master/0596-classes-more-than-5-students) |
 | [0608-tree-node](https://github.com/HarshithaCal/Leetcode/tree/master/0608-tree-node) |
