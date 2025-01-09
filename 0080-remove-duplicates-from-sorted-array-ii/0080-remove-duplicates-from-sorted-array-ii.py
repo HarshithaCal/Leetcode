@@ -22,20 +22,28 @@ class Solution:
 
         
         ###########TC - O(N)
-        write_index = 1  # Position to overwrite the next non-duplicate
-        counter = 1  # To track the occurrences of the current element
+        # write_index = 1  # Position to overwrite the next non-duplicate
+        # counter = 1  # To track the occurrences of the current element
 
-        for i in range(1, len(nums)):
-            if nums[i] == nums[i - 1]:
-                counter += 1
-            else:
-                counter = 1
+        # for i in range(1, len(nums)):
+        #     if nums[i] == nums[i - 1]:
+        #         counter += 1
+        #     else:
+        #         counter = 1
 
-            if counter <= 2:
-                nums[write_index] = nums[i]
-                write_index += 1
+        #     if counter <= 2:
+        #         nums[write_index] = nums[i]
+        #         write_index += 1
 
-        return write_index
+        # return write_index
+
+
+        l = 2
+        for r in range(2,len(nums)):
+            if nums[r] != nums[l-2] or nums[r] != nums[l-1]:
+                nums[l] = nums[r]
+                l+=1
+        return l  
 
             
         
