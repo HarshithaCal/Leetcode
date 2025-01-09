@@ -10,6 +10,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshithaCal/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HarshithaCal/Leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HarshithaCal/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0169-majority-element](https://github.com/HarshithaCal/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/HarshithaCal/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/HarshithaCal/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HarshithaCal/Leetcode/tree/master/0283-move-zeroes) |
@@ -46,6 +47,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HarshithaCal/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/HarshithaCal/Leetcode/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/HarshithaCal/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HarshithaCal/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -70,6 +72,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HarshithaCal/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/HarshithaCal/Leetcode/tree/master/0268-missing-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/HarshithaCal/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HarshithaCal/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -116,6 +119,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HarshithaCal/Leetcode/tree/master/0169-majority-element) |
 | [1777-determine-if-two-strings-are-close](https://github.com/HarshithaCal/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Matrix
 |  |
@@ -275,4 +279,8 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [2127-employees-whose-manager-left-the-company](https://github.com/HarshithaCal/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/HarshithaCal/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3530-odd-and-even-transactions](https://github.com/HarshithaCal/Leetcode/tree/master/3530-odd-and-even-transactions) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/HarshithaCal/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
