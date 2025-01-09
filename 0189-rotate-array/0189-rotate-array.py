@@ -8,7 +8,7 @@ class Solution:
 
         if len(nums)<=1 or k==0:
             return nums
-
+        
         nums[:] = nums[-k:] + nums[:-k]
         return nums
         
