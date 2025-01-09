@@ -1,6 +1,6 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-    #XOR logic
+
     #Boyer–Moore majority  
         candidate = -1
         votes = 0
