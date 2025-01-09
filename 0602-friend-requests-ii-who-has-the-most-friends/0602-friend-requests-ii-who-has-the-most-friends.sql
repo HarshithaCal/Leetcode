@@ -9,7 +9,7 @@ select requester_id as id , COUNT(requester_id) AS counter
 FROM RequestAccepted 
 GROUP BY id
 
-UNION ALL
+UNION ALL #we want duplicates!!!
 
 select accepter_id as id, COUNT(accepter_id) AS counter
 FROM RequestAccepted 
