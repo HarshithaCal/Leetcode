@@ -1,5 +1,6 @@
 class Solution:
     def successfulPairs(self, spells: List[int], potions: List[int], success: int) -> List[int]:
+        #TC - O(mlogm+nlogm)
         potions = sorted(potions)
         res = []
         
