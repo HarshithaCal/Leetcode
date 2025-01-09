@@ -181,6 +181,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshithaCal/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HarshithaCal/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/HarshithaCal/Leetcode/tree/master/0113-path-sum-ii) |
+| [0783-search-in-a-binary-search-tree](https://github.com/HarshithaCal/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/HarshithaCal/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/HarshithaCal/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HarshithaCal/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -217,6 +218,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshithaCal/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HarshithaCal/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/HarshithaCal/Leetcode/tree/master/0113-path-sum-ii) |
+| [0783-search-in-a-binary-search-tree](https://github.com/HarshithaCal/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/HarshithaCal/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/HarshithaCal/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HarshithaCal/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -291,4 +293,8 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HarshithaCal/Leetcode/tree/master/0169-majority-element) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/HarshithaCal/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
