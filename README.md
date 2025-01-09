@@ -12,6 +12,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HarshithaCal/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HarshithaCal/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/HarshithaCal/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/HarshithaCal/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/HarshithaCal/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/HarshithaCal/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HarshithaCal/Leetcode/tree/master/0283-move-zeroes) |
@@ -38,6 +39,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HarshithaCal/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HarshithaCal/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/HarshithaCal/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/HarshithaCal/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HarshithaCal/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HarshithaCal/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/HarshithaCal/Leetcode/tree/master/0392-is-subsequence) |
@@ -59,6 +61,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/HarshithaCal/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/HarshithaCal/Leetcode/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HarshithaCal/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Binary Search
