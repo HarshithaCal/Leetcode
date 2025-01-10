@@ -9,6 +9,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0011-container-with-most-water](https://github.com/HarshithaCal/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshithaCal/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HarshithaCal/Leetcode/tree/master/0027-remove-element) |
+| [0078-subsets](https://github.com/HarshithaCal/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HarshithaCal/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HarshithaCal/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshithaCal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -83,6 +84,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/HarshithaCal/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/HarshithaCal/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/HarshithaCal/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
@@ -243,6 +245,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/HarshithaCal/Leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/HarshithaCal/Leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/HarshithaCal/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Interactive
