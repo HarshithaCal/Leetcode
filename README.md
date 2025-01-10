@@ -12,6 +12,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HarshithaCal/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HarshithaCal/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshithaCal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/HarshithaCal/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/HarshithaCal/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HarshithaCal/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/HarshithaCal/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -70,6 +71,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/HarshithaCal/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/HarshithaCal/Leetcode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/HarshithaCal/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1046-max-consecutive-ones-iii](https://github.com/HarshithaCal/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
