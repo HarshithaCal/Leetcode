@@ -99,6 +99,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | ------- |
 | [0125-valid-palindrome](https://github.com/HarshithaCal/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/HarshithaCal/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/HarshithaCal/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HarshithaCal/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/HarshithaCal/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/HarshithaCal/Leetcode/tree/master/0394-decode-string) |
@@ -193,6 +194,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshithaCal/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HarshithaCal/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/HarshithaCal/Leetcode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/HarshithaCal/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HarshithaCal/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/HarshithaCal/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/HarshithaCal/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -208,6 +210,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshithaCal/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HarshithaCal/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/HarshithaCal/Leetcode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/HarshithaCal/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0904-leaf-similar-trees](https://github.com/HarshithaCal/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/HarshithaCal/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HarshithaCal/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -230,6 +233,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshithaCal/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HarshithaCal/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/HarshithaCal/Leetcode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/HarshithaCal/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HarshithaCal/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/HarshithaCal/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/HarshithaCal/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -240,6 +244,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/HarshithaCal/Leetcode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/HarshithaCal/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Interactive
 |  |
 | ------- |
