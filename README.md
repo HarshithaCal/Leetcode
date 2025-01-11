@@ -90,6 +90,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0078-subsets](https://github.com/HarshithaCal/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/HarshithaCal/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/HarshithaCal/Leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/HarshithaCal/Leetcode/tree/master/0338-counting-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HarshithaCal/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
@@ -128,6 +129,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshithaCal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/HarshithaCal/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/HarshithaCal/Leetcode/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HarshithaCal/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
