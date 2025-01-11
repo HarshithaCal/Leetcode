@@ -60,6 +60,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/HarshithaCal/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/HarshithaCal/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/HarshithaCal/Leetcode/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/HarshithaCal/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -102,6 +103,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/HarshithaCal/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/HarshithaCal/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/HarshithaCal/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/HarshithaCal/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -248,6 +250,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/HarshithaCal/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/HarshithaCal/Leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/HarshithaCal/Leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/HarshithaCal/Leetcode/tree/master/0257-binary-tree-paths) |
