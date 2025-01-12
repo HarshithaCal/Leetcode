@@ -35,6 +35,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [1833-find-the-highest-altitude](https://github.com/HarshithaCal/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HarshithaCal/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HarshithaCal/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/HarshithaCal/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HarshithaCal/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/HarshithaCal/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Two Pointers
