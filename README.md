@@ -338,4 +338,8 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HarshithaCal/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/HarshithaCal/Leetcode/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
