@@ -73,6 +73,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | ------- |
 | [0189-rotate-array](https://github.com/HarshithaCal/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/HarshithaCal/Leetcode/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/HarshithaCal/Leetcode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HarshithaCal/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HarshithaCal/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Binary Search
@@ -131,6 +132,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshithaCal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/HarshithaCal/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/HarshithaCal/Leetcode/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/HarshithaCal/Leetcode/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HarshithaCal/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
@@ -174,6 +176,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | ------- |
 | [0206-reverse-linked-list](https://github.com/HarshithaCal/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/HarshithaCal/Leetcode/tree/master/0394-decode-string) |
+| [1013-fibonacci-number](https://github.com/HarshithaCal/Leetcode/tree/master/1013-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -342,4 +345,8 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/HarshithaCal/Leetcode/tree/master/1916-find-center-of-star-graph) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/HarshithaCal/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
