@@ -24,10 +24,10 @@ WHERE status != "completed"
 GROUP BY request_at
 )
 
-SELECT DATE(t.request_at) AS 'Day',
-COALESCE(ROUND(cancelled_count/total_count, 2), 0) AS 'Cancellation Rate' 
+SELECT DATE(t.request_at) AS 'Day',  # DATE() will fill the date if it's NULL - key!!!!
+COALESCE(ROUND(cancelled_count/total_count, 2), 0) AS 'Cancellation Rate'  #Replace the NUll with 0's
 FROM total t
-LEFT JOIN cancelled c
+LEFT JOIN cancelled c #LEFT JOIN to get the days with cancellation_rate = 0
 ON c.request_at = t.request_at
 
 
