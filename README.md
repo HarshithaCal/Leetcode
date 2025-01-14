@@ -39,6 +39,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [2199-two-furthest-houses-with-different-colors](https://github.com/HarshithaCal/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HarshithaCal/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/HarshithaCal/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshithaCal/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [1777-determine-if-two-strings-are-close](https://github.com/HarshithaCal/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HarshithaCal/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/HarshithaCal/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshithaCal/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +97,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0268-missing-number](https://github.com/HarshithaCal/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/HarshithaCal/Leetcode/tree/master/0338-counting-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HarshithaCal/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshithaCal/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
