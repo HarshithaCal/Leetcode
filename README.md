@@ -328,6 +328,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [1801-average-time-of-process-per-machine](https://github.com/HarshithaCal/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/HarshithaCal/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/HarshithaCal/Leetcode/tree/master/1827-invalid-tweets) |
+| [1837-daily-leads-and-partners](https://github.com/HarshithaCal/Leetcode/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/HarshithaCal/Leetcode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/HarshithaCal/Leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/HarshithaCal/Leetcode/tree/master/1892-find-total-time-spent-by-each-employee) |
