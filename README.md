@@ -9,6 +9,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0011-container-with-most-water](https://github.com/HarshithaCal/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshithaCal/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HarshithaCal/Leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/HarshithaCal/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/HarshithaCal/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HarshithaCal/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HarshithaCal/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -47,6 +48,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0011-container-with-most-water](https://github.com/HarshithaCal/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshithaCal/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HarshithaCal/Leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/HarshithaCal/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HarshithaCal/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HarshithaCal/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/HarshithaCal/Leetcode/tree/master/0125-valid-palindrome) |
@@ -102,6 +104,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/HarshithaCal/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HarshithaCal/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/HarshithaCal/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/HarshithaCal/Leetcode/tree/master/0268-missing-number) |
