@@ -1,6 +1,6 @@
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        #sliding window approach 
+        
         left = 0
         right = 0
         curr_sum = 0
