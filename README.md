@@ -15,6 +15,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HarshithaCal/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HarshithaCal/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshithaCal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/HarshithaCal/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/HarshithaCal/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/HarshithaCal/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/HarshithaCal/Leetcode/tree/master/0169-majority-element) |
@@ -70,6 +71,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshithaCal/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/HarshithaCal/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/HarshithaCal/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/HarshithaCal/Leetcode/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/HarshithaCal/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -375,4 +377,8 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/HarshithaCal/Leetcode/tree/master/1013-fibonacci-number) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/HarshithaCal/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
