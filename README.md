@@ -9,6 +9,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0011-container-with-most-water](https://github.com/HarshithaCal/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshithaCal/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HarshithaCal/Leetcode/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/HarshithaCal/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/HarshithaCal/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/HarshithaCal/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HarshithaCal/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -139,6 +140,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/HarshithaCal/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshithaCal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/HarshithaCal/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/HarshithaCal/Leetcode/tree/master/0392-is-subsequence) |
@@ -348,6 +350,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/HarshithaCal/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/HarshithaCal/Leetcode/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
