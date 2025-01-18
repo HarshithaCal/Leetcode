@@ -21,6 +21,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0268-missing-number](https://github.com/HarshithaCal/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HarshithaCal/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/HarshithaCal/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0485-max-consecutive-ones](https://github.com/HarshithaCal/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/HarshithaCal/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/HarshithaCal/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/HarshithaCal/Leetcode/tree/master/0724-find-pivot-index) |
