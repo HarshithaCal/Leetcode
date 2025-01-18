@@ -3,6 +3,7 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
+        ##not the most optimal solution in terms of the space usage.
         horizontal = [0] * len(matrix[0])
         vertical = [0] * len(matrix)
 
