@@ -9,6 +9,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0011-container-with-most-water](https://github.com/HarshithaCal/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshithaCal/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HarshithaCal/Leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/HarshithaCal/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/HarshithaCal/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/HarshithaCal/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/HarshithaCal/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -96,6 +97,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/HarshithaCal/Leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/HarshithaCal/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/HarshithaCal/Leetcode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/HarshithaCal/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
