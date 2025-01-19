@@ -9,6 +9,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0011-container-with-most-water](https://github.com/HarshithaCal/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshithaCal/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HarshithaCal/Leetcode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/HarshithaCal/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/HarshithaCal/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/HarshithaCal/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/HarshithaCal/Leetcode/tree/master/0075-sort-colors) |
@@ -85,6 +86,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/HarshithaCal/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/HarshithaCal/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/HarshithaCal/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/HarshithaCal/Leetcode/tree/master/1013-fibonacci-number) |
@@ -174,6 +176,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/HarshithaCal/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/HarshithaCal/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [2428-equal-row-and-column-pairs](https://github.com/HarshithaCal/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
