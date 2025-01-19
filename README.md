@@ -31,6 +31,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0643-maximum-average-subarray-i](https://github.com/HarshithaCal/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/HarshithaCal/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/HarshithaCal/Leetcode/tree/master/0735-asteroid-collision) |
+| [0792-binary-search](https://github.com/HarshithaCal/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/HarshithaCal/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/HarshithaCal/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/HarshithaCal/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -98,6 +99,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0162-find-peak-element](https://github.com/HarshithaCal/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/HarshithaCal/Leetcode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/HarshithaCal/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0792-binary-search](https://github.com/HarshithaCal/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/HarshithaCal/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/HarshithaCal/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HarshithaCal/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
