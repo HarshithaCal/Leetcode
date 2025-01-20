@@ -24,6 +24,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0162-find-peak-element](https://github.com/HarshithaCal/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/HarshithaCal/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HarshithaCal/Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/HarshithaCal/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/HarshithaCal/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/HarshithaCal/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HarshithaCal/Leetcode/tree/master/0283-move-zeroes) |
@@ -79,6 +80,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0073-set-matrix-zeroes](https://github.com/HarshithaCal/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/HarshithaCal/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/HarshithaCal/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/HarshithaCal/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/HarshithaCal/Leetcode/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/HarshithaCal/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HarshithaCal/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -122,6 +124,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0075-sort-colors](https://github.com/HarshithaCal/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HarshithaCal/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/HarshithaCal/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/HarshithaCal/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/HarshithaCal/Leetcode/tree/master/0268-missing-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/HarshithaCal/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HarshithaCal/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
