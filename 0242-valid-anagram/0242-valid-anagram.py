@@ -1,5 +1,7 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
+        # size of freq wont be greater than 26 so the SC = O(1)
+        # TC - O(N)
         freq = {}
         if len(s)!= len(t):
             return False
