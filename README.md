@@ -81,6 +81,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0128-longest-consecutive-sequence](https://github.com/HarshithaCal/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/HarshithaCal/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HarshithaCal/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/HarshithaCal/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarshithaCal/Leetcode/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/HarshithaCal/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HarshithaCal/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -125,6 +126,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0088-merge-sorted-array](https://github.com/HarshithaCal/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/HarshithaCal/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HarshithaCal/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/HarshithaCal/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarshithaCal/Leetcode/tree/master/0268-missing-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/HarshithaCal/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HarshithaCal/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -135,6 +137,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshithaCal/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/HarshithaCal/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/HarshithaCal/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/HarshithaCal/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/HarshithaCal/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HarshithaCal/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/HarshithaCal/Leetcode/tree/master/0392-is-subsequence) |
