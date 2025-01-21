@@ -6,6 +6,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HarshithaCal/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/HarshithaCal/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshithaCal/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HarshithaCal/Leetcode/tree/master/0027-remove-element) |
@@ -76,6 +77,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HarshithaCal/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshithaCal/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/HarshithaCal/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/HarshithaCal/Leetcode/tree/master/0128-longest-consecutive-sequence) |
