@@ -94,6 +94,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HarshithaCal/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/HarshithaCal/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/HarshithaCal/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/HarshithaCal/Leetcode/tree/master/0189-rotate-array) |
@@ -212,6 +213,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HarshithaCal/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/HarshithaCal/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/HarshithaCal/Leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/HarshithaCal/Leetcode/tree/master/1013-fibonacci-number) |
@@ -231,6 +233,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HarshithaCal/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/HarshithaCal/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/HarshithaCal/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HarshithaCal/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
