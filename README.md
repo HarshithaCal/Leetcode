@@ -14,6 +14,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0035-search-insert-position](https://github.com/HarshithaCal/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/HarshithaCal/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/HarshithaCal/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/HarshithaCal/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/HarshithaCal/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/HarshithaCal/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/HarshithaCal/Leetcode/tree/master/0078-subsets) |
@@ -195,11 +196,13 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/HarshithaCal/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/HarshithaCal/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/HarshithaCal/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [2428-equal-row-and-column-pairs](https://github.com/HarshithaCal/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/HarshithaCal/Leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/HarshithaCal/Leetcode/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HarshithaCal/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2428-equal-row-and-column-pairs](https://github.com/HarshithaCal/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
