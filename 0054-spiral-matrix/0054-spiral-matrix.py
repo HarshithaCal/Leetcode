@@ -1,5 +1,6 @@
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
+        #TC - O(m*n) - every element is visited exactly
         m, n = len(matrix), len(matrix[0])
         res = []
         left = 0; right = (n-1); top = 0; bottom = (m-1)
