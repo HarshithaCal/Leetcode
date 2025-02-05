@@ -104,6 +104,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [1013-fibonacci-number](https://github.com/HarshithaCal/Leetcode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HarshithaCal/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HarshithaCal/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2032-largest-odd-number-in-string](https://github.com/HarshithaCal/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -155,6 +156,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HarshithaCal/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/HarshithaCal/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/HarshithaCal/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2032-largest-odd-number-in-string](https://github.com/HarshithaCal/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/HarshithaCal/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Greedy
 |  |
@@ -163,6 +165,7 @@ Practicing Leetcode problems to prepare for interviews. This github repository i
 | [0334-increasing-triplet-subsequence](https://github.com/HarshithaCal/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/HarshithaCal/Leetcode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/HarshithaCal/Leetcode/tree/master/0649-dota2-senate) |
+| [2032-largest-odd-number-in-string](https://github.com/HarshithaCal/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/HarshithaCal/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Dynamic Programming
 |  |
